@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\valter\Documents\GitHub\Financeiro\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+716468599.index
+1483351643.index
+4226184297.index
+2680102021.index
+2366470611.index

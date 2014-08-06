@@ -1,0 +1,7 @@
+127.0.0.1 - - [13/Jul/2014:12:24:08 -0300] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [13/Jul/2014:12:24:09 -0300] "GET /Financeiro_original/index.xhtml HTTP/1.1" 200 421
+0:0:0:0:0:0:0:1 - - [13/Jul/2014:12:24:14 -0300] "GET /Financeiro_original/index.xhtml HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Jul/2014:12:24:17 -0300] "GET /Financeiro_original/index.xhtml HTTP/1.1" 304 -
+127.0.0.1 - - [13/Jul/2014:12:25:30 -0300] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [13/Jul/2014:12:25:30 -0300] "GET /Financeiro_original/index.xhtml HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Jul/2014:12:26:03 -0300] "GET /favicon.ico HTTP/1.1" 404 988

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Financeiro_original">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="javax.servlet.jsp.jstl-1.2.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javax.servlet.jsp.jstl-1.2.1/javax.servlet.jsp.jstl-1.2.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.1.1/commons-logging-1.1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.servlet.jsp.jstl-api-1.2.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javax.servlet.jsp.jstl-api-1.2.1/javax.servlet.jsp.jstl-api-1.2.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-beanutils-1.8.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-beanutils-1.8.3/commons-beanutils-1.8.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-digester-2.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-digester-2.1/commons-digester-2.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jsf-impl.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jsf-impl/jsf-impl">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jsf-api.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jsf-api/jsf-api">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-collections-3.2.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-collections-3.2.1/commons-collections-3.2.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="Financeiro_original"/>
+        <property name="java-output-path" value="/Financeiro_original/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,10 @@
+#Tomcat publish data
+#Sun Jul 13 12:24:01 GMT-03:00 2014
+org.eclipse.jst.j2ee.server\:javax.servlet.jsp.jstl-1.2.1=WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar
+org.eclipse.jst.j2ee.server\:commons-digester-2.1=WEB-INF/lib/commons-digester-2.1.jar
+org.eclipse.jst.j2ee.server\:commons-logging-1.1.1=WEB-INF/lib/commons-logging-1.1.1.jar
+org.eclipse.jst.j2ee.server\:jsf-api=WEB-INF/lib/jsf-api.jar
+org.eclipse.jst.j2ee.server\:javax.servlet.jsp.jstl-api-1.2.1=WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar
+org.eclipse.jst.j2ee.server\:jsf-impl=WEB-INF/lib/jsf-impl.jar
+org.eclipse.jst.j2ee.server\:commons-collections-3.2.1=WEB-INF/lib/commons-collections-3.2.1.jar
+org.eclipse.jst.j2ee.server\:commons-beanutils-1.8.3=WEB-INF/lib/commons-beanutils-1.8.3.jar
